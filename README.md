@@ -1,7 +1,7 @@
 # Stock Volatility Explorer
 
 ## Overview
-This project analyzes the volatility behavior of selected U.S. equities by computing rolling historical volatility and comparing stock-level risk relative to the overall market.
+This project analyzes the volatility behavior of 20+ selected U.S. equities by computing rolling historical volatility and comparing stock-level risk relative to the overall market benchmark (SPY).
 The goal is to understand how different stocks behave under normal and stress (high-volatility) market regimes.
 
 ## Motivation
